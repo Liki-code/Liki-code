@@ -7,12 +7,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/IkNXxoh0uksAAAAC/mikasa-pudding.gif"  />
+<img align="right" height="120" src="https://media1.tenor.com/m/IkNXxoh0uksAAAAC/mikasa-pudding.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="100" alt="java logo"  />
 </div>
 
 ###
